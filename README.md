@@ -1,8 +1,9 @@
 # Olá, eu sou o Rafael de Barros Almeida! 👋
 
-Desenvolvedor em formação | Estudante de **Sistemas de Informação** (2º Semestre) & **Técnico em Informática**
+Desenvolvedor em formação | Técnico em Informática | Estudante de **Sistemas de Informação** (2º Semestre)
 
-Estudante de Sistemas de Informação focado em **Desenvolvimento de Software** e **Engenharia de Software**. Meu diferencial competitivo está na combinação entre lógica de programação, estrutura de dados e uma sólida base em infraestrutura, redes, Linux e cibersegurança — o que me permite escrever código otimizado e consciente de como ele roda no ambiente de execução.
+Estudante de Sistemas de Informação focado em **Desenvolvimento** e **Banco de Dados**. Tenho como diferencial uma formação que combina **lógica de programação, estruturas de dados, bancos de dados e conhecimentos em infraestrutura, redes, Linux e cibersegurança**. Essa visão integrada me permite desenvolver soluções não apenas pensando no código, mas também em **desempenho, organização, segurança e no ambiente em que a aplicação será executada**.
+
 
 ---
 
@@ -34,13 +35,7 @@ Estudante de Sistemas de Informação focado em **Desenvolvimento de Software** 
 * Arquitetura e Organização de Computadores
 * Matemática Discreta
 * Gestão do Conhecimento e da Tecnologia da Informação
-
-
-* **Em Andamento (Semestre Atual):**
 * Algoritmos e Técnicas de Programação
-* Algoritmos e Estrutura de Dados
-* Projeto de Extensão I - Sistemas de Informação
-
 
 
 ---
@@ -55,7 +50,7 @@ Estudante de Sistemas de Informação focado em **Desenvolvimento de Software** 
 
 ## 🎯 Objetivos Profissionais
 
-Busco oportunidades de **Estágio em Desenvolvimento de Software**, **Desenvolvedor Junior** ou **Jovem Aprendiz Técnico em TI**, onde eu possa aplicar algoritmos, estrutura de dados e boas práticas de código na construção de soluções escaláveis.
+Busco oportunidades de **Estágio em Desenvolvimento**, **Desenvolvedor Junior**, **Estágio em Banco de dados**, **Estágio em Backend**, onde eu possa aplicar algoritmos, estrutura de dados e boas práticas de código na construção de soluções escaláveis.
 
 ---
 
