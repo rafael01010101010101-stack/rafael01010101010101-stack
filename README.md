@@ -10,8 +10,8 @@ Estudante de Sistemas de Informação focado em **Desenvolvimento** e **Banco de
 ## 💻 Desenvolvimento & Engenharia de Software
 
 * **Algoritmos & Lógica:** Aplicação prática de Algoritmos, Técnicas de Programação e Estrutura de Dados na resolução de problemas eficientes.
-* **Bancos de Dados:** Modelagem Entidade-Relacionamento (DER), DDL (estruturação) e DML (consultas complexas) utilizando **MySQL**.
-* **Ferramentas & Versionamento:** Controle de versão avançado com **Git / GitHub** e ambiente de desenvolvimento otimizado no **VS Code**.
+* **Bancos de Dados:** Modelagem Entidade-Relacionamento (DER), DDL (estruturação) e DML (consultas complexas) utilizando **MySQL** e **SQL Server**.
+* **Ferramentas & Versionamento:** Controle de versão avançado com **Git / GitHub** e ambiente de desenvolvimento otimizado no **VS Code** e **Visual Studio**.
 * **Base Matemática:** Aplicação de Matemática Discreta aplicada à lógica da computação e análise de algoritmos.
 
 ---
