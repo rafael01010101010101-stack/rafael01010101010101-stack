@@ -37,6 +37,7 @@ Estudante de Sistemas de Informação focado em **Desenvolvimento** e **Banco de
 * Gestão do Conhecimento e da Tecnologia da Informação
 * Algoritmos e Técnicas de Programação
 * Modelagem de Dados
+* Lógica e Matemática Computacional
 
 
 ---
